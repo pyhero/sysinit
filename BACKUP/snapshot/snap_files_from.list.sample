@@ -1,0 +1,15 @@
+/etc/rc.d/init.d
+/etc/rc.d/rc.local
+/etc/my.cnf
+/etc/rsyncd.conf
+/etc/httpd
+/etc/passwd
+/etc/group
+/var/spool/cron
+/var/named
+/etc/named
+/BACKUP/scripts
+/ROOT/scripts
+/ROOT/server
+/ROOT/svn
+/ROOT/www

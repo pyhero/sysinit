@@ -1,0 +1,6 @@
+*.log
+.swp
+nohup.out
+run.log*
+*.jnl
+/var/named/chroot/proc/
