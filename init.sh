@@ -60,7 +60,7 @@ done
 root=/ROOT
 [ ! -e $root ] && mkdir $root
 cd $root
-dir="www tmp server log src BACKUP sh/CRON data conf bin"
+dir="www tmp server logs src BACKUP sh/CRON data conf bin"
 for i in $dir;do
 	mkdir -p $i
 done
